@@ -167,7 +167,7 @@ pipeline {
 }
 ```
 
-- Commit and push the changes to the remote repo on GitHub.
+- Commit and push the changes to the remote repo on GitHub. Follow these steps for successfull build
 
 ```bash
 git add .
